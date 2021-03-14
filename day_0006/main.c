@@ -6,7 +6,7 @@ typedef int ValueType;
 typedef struct Node
 {
     ValueType value;
-    struct Node *xorPrevNext;
+    uintptr_t xorPrevNext;
 } Node;
 
 typedef struct List
@@ -23,22 +23,22 @@ List *newList()
     return list;
 }
 
-Node *xorPrevNext(Node *prev, Node *next)
+uintptr_t xorPrevNext(Node *prev, Node *next)
 {
-    return (Node *)((long)prev ^ (long)next);
+    return (uintptr_t)prev ^ (uintptr_t)next;
 }
 
-Node *getPrev(Node *xorPrevNext, Node *next)
+Node *getPrev(uintptr_t xorPrevNext, Node *next)
 {
-    return (Node *)((long)xorPrevNext ^ (long)next);
+    return (Node *)((uintptr_t)xorPrevNext ^ (uintptr_t)next);
 }
 
-Node *getNext(Node *xorPrevNext, Node *prev)
+Node *getNext(uintptr_t xorPrevNext, Node *prev)
 {
-    return (Node *)((long)xorPrevNext ^ (long)prev);
+    return (Node *)((uintptr_t)xorPrevNext ^ (uintptr_t)prev);
 }
 
-Node *newNode(ValueType value, Node *xorPrevNext)
+Node *newNode(ValueType value, uintptr_t xorPrevNext)
 {
     Node *node = malloc(sizeof(Node));
     node->value = value;
