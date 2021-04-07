@@ -22,26 +22,15 @@ def get_sum_bigger_non_adjacent(l):
     25
     '''
 
-    if len(l) <= 2:
+    if not l:
         return None
 
-    if len(l) == 3:
-        return l[0] + l[2]
+    i, e = l[0], 0
 
-    max_value_1 = float('-inf')
-    max_index_1 = None
-    for i, element in enumerate(l):
-        if element > max_value_1:
-            max_value_1 = element
-            max_index_1 = i
+    for x in l[1:]:
+        i, e = e + x, max(i, e)
 
-    max_value_2 = float('-inf')
-    for i, element in enumerate(l):
-        if i not in [max_index_1 - 1, max_index_1, max_index_1 + 1]:
-            if element > max_value_2:
-                max_value_2 = element
-
-    return max_value_1 + max_value_2
+    return max(i, e)
 
 
 if __name__ == '__main__':
