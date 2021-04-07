@@ -3,9 +3,9 @@ def get_sum_bigger_non_adjacent(l):
     >>> get_sum_bigger_non_adjacent([])
 
     >>> get_sum_bigger_non_adjacent([100])
-
+    100
     >>> get_sum_bigger_non_adjacent([100, 101])
-
+    101
     >>> get_sum_bigger_non_adjacent([5, 7, 6])
     11
     >>> get_sum_bigger_non_adjacent([5, 1, 1, 5])
@@ -17,7 +17,9 @@ def get_sum_bigger_non_adjacent(l):
     >>> get_sum_bigger_non_adjacent([90, 101, 70, 100])
     201
     >>> get_sum_bigger_non_adjacent([2, 4, 6, 2, 5])
-    11
+    13
+    >>> get_sum_bigger_non_adjacent([10, 15, 6, 0, 2, 0, 3, 0, 4])
+    25
     '''
 
     if len(l) <= 2:
