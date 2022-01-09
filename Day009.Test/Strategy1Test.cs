@@ -2,7 +2,7 @@ using Xunit;
 
 namespace Day009.Test;
 
-public class UnitTest1
+public class Strategy1Test
 {
     [Theory]
     [InlineData(new int[0], null)]
@@ -15,7 +15,8 @@ public class UnitTest1
     [InlineData(new[] {90, 101, 70, 100}, 201)]
     [InlineData(new[] {2, 4, 6, 2, 5}, 13)]
     [InlineData(new[] {10, 15, 6, 0, 2, 0, 3, 0, 4}, 25)]
-    public void Test1(int[] inputValues, int? expected)
+    public void Execute_ArrayOfNumbers_ReturnsTheLargestSumOfNonAdjacentNumbers(
+        int[] inputValues, int? expected)
     {
         var strategy = new Strategy1();
 
