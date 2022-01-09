@@ -28,9 +28,7 @@ public abstract class StrategyTestBase
         int[] inputList,
         int target)
     {
-        var strategy = new Strategy1();
-
-        var actual = strategy.Execute(inputList, target);
+        var actual = _strategy.Execute(inputList, target);
 
         Assert.False(actual);
     }
