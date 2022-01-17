@@ -14,10 +14,10 @@ public class DoublyLinkedListTest : LinkedListTestBase
     [InlineData(new int[0])]
     public void ToArrayReversed_IntegerValues_GetAsArray(int[] values)
     {
-        var _linkedList = GetNewInstance() as DoublyLinkedList<int>;
-        foreach (var value in values) _linkedList.Add(value);
+        var linkedList = GetNewInstance() as DoublyLinkedList<int>;
+        foreach (var value in values) linkedList?.Add(value);
 
-        var actual = _linkedList.ToArrayReversed();
+        var actual = linkedList?.ToArrayReversed();
 
         Assert.Equal(values.Reverse().ToArray(), actual);
     }

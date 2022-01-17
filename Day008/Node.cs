@@ -2,7 +2,7 @@
 
 public class Node<T> where T : notnull
 {
-    public Node(T value, Node<T>? left = null, Node<T> right = null)
+    public Node(T value, Node<T>? left = null, Node<T>? right = null)
     {
         Value = value;
         Left = left;

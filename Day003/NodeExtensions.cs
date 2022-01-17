@@ -9,7 +9,7 @@ public static class NodeExtensions
             : $"{node.Value}({Serialize(node.Left)})({Serialize(node.Right)})";
     }
 
-    public static Node Deserialize(this string input)
+    public static Node? Deserialize(this string input)
     {
         if (string.IsNullOrWhiteSpace(input)) return null;
 
