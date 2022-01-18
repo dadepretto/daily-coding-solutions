@@ -80,9 +80,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day013.Test", "Day013.Test\Day013.Test.csproj", "{F96FE91C-C158-47F0-BFC1-FAF7866B7532}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day013", "Day013", "{2A8ED49C-BF01-4FD8-9568-19F64113962C}"
-	ProjectSection(SolutionItems) = preProject
-		README.md = README.md
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
