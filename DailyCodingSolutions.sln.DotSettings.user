@@ -1,6 +1,6 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/davidedepretto/Library/Caches/JetBrains/Rider2021.3/resharper-host/temp/Rider/vAny/CoverageData/_DailyCodingSolutions.1584796420/Snapshot/snapshot.utdcvr</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=426eb0ab_002Db449_002D43b0_002Dbd5f_002D231eb60b0710/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f79e0671_002Ddf0b_002D41e3_002D9f2f_002D764725835cc0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Day018&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;Or&gt;
     &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day001&amp;gt;" /&gt;
     &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day002&amp;gt;" /&gt;
@@ -19,8 +19,10 @@
     &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day015&amp;gt;" /&gt;
     &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day016&amp;gt;" /&gt;
     &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day017&amp;gt;" /&gt;
+    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day018&amp;gt;" /&gt;
   &lt;/Or&gt;
 &lt;/SessionState&gt;</s:String>
+	
 	
 	
 	
