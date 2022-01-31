@@ -1,4 +1,4 @@
-name: Run automated tests
+name: Unit tests
 
 on:
   push:
