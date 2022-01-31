@@ -1,6 +1,6 @@
 # Daily Coding (Problem) Solutions
 
-[![Run automated tests](https://github.com/dadepretto/daily-coding-solutions/actions/workflows/test.yml/badge.svg)](https://github.com/dadepretto/daily-coding-solutions/actions/workflows/test.yml)
+[![Unit tests](https://github.com/dadepretto/daily-coding-solutions/actions/workflows/test.yml/badge.svg)](https://github.com/dadepretto/daily-coding-solutions/actions/workflows/test.yml)
 
 My personal solutions to coding problems found on https://www.dailycodingproblem.com.
 
