@@ -4,7 +4,7 @@ public class Strategy1 : IStrategy
 {
     public decimal Execute(decimal[,] costsPerHousePerColor)
     {
-        var dataSet = new DataSetAdapter(costsPerHousePerColor);
+        var dataSet = costsPerHousePerColor.AsEnumerable().ToArray();
 
         var result = dataSet
             .Skip(1)
