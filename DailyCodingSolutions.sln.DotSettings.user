@@ -1,28 +1,9 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/davidedepretto/Library/Caches/JetBrains/Rider2021.3/resharper-host/temp/Rider/vAny/CoverageData/_DailyCodingSolutions.1584796420/Snapshot/snapshot.utdcvr</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a6810508_002D4c8e_002D4618_002D94ec_002De05c9143529e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;Or&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day001&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day002&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day003&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day004&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day005&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day006&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day007&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day008&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day009&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day010&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day011&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day012&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day013&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day014&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day015&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day016&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day017&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day018&amp;gt;" /&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day019&amp;gt;" /&gt;
-  &lt;/Or&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ca131bd9_002Dd9f7_002D4859_002D88ba_002Da2397cc6bede/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Day020&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day020&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String>
+	
 	
 	
 	
