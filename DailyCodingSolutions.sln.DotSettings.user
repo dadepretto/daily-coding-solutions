@@ -1,50 +1,13 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/davidedepretto/Library/Caches/JetBrains/Rider2021.3/resharper-host/temp/Rider/vAny/CoverageData/_DailyCodingSolutions.1584796420/Snapshot/snapshot.utdcvr</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=12fbcaf1_002D1efa_002D41b2_002D8782_002D1e51be29b2d3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;And&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day021&amp;gt;" /&gt;
-    &lt;Not&gt;
-      &lt;TestAncestor&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy1Test&lt;/TestId&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy1Test.Execute_TwoListNumbersAddToTarget_ReturnsTrue&lt;/TestId&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy1Test.Execute_AnyTwoNumbersAddToTarget_ReturnsFalse&lt;/TestId&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy2Test&lt;/TestId&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy2Test.Execute_TwoListNumbersAddToTarget_ReturnsTrue&lt;/TestId&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy2Test.Execute_AnyTwoNumbersAddToTarget_ReturnsFalse&lt;/TestId&gt;
-      &lt;/TestAncestor&gt;
-    &lt;/Not&gt;
-  &lt;/And&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fe18efd2_002D1b9e_002D49f3_002Da92a_002D2f9e1a44f5b4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Day022&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day022&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=861dd3fa_002Dcc6d_002D4783_002Da957_002D2d0ddde56e6f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;And&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day021&amp;gt;" /&gt;
-    &lt;Not&gt;
-      &lt;TestAncestor&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy1Test&lt;/TestId&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy1Test.Execute_TwoListNumbersAddToTarget_ReturnsTrue&lt;/TestId&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy1Test.Execute_AnyTwoNumbersAddToTarget_ReturnsFalse&lt;/TestId&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy2Test&lt;/TestId&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy2Test.Execute_TwoListNumbersAddToTarget_ReturnsTrue&lt;/TestId&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy2Test.Execute_AnyTwoNumbersAddToTarget_ReturnsFalse&lt;/TestId&gt;
-      &lt;/TestAncestor&gt;
-    &lt;/Not&gt;
-  &lt;/And&gt;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=93b64cd7_002Db7d2_002D4134_002D9b86_002Db58c69203ca8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;And&gt;
-    &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day021&amp;gt;" /&gt;
-    &lt;Not&gt;
-      &lt;TestAncestor&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy1Test&lt;/TestId&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy1Test.Execute_TwoListNumbersAddToTarget_ReturnsTrue&lt;/TestId&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy1Test.Execute_AnyTwoNumbersAddToTarget_ReturnsFalse&lt;/TestId&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy2Test&lt;/TestId&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy2Test.Execute_TwoListNumbersAddToTarget_ReturnsTrue&lt;/TestId&gt;
-        &lt;TestId&gt;xUnit::22DB7223-2E63-40E4-ACE7-DCC76A5DBD55::net6.0::Day001.Test.Strategy2Test.Execute_AnyTwoNumbersAddToTarget_ReturnsFalse&lt;/TestId&gt;
-      &lt;/TestAncestor&gt;
-    &lt;/Not&gt;
-  &lt;/And&gt;
-&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	
 	
 	
 	
