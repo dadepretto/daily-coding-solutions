@@ -1,8 +1,9 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/davidedepretto/Library/Caches/JetBrains/Rider2021.3/resharper-host/temp/Rider/vAny/CoverageData/_DailyCodingSolutions.1584796420/Snapshot/snapshot.utdcvr</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5db1314b_002D071b_002D40f3_002D9b8c_002D37cd8e4e1bef/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Day028&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day028&amp;gt;" /&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6599181c_002Dc57a_002D46e2_002D88dc_002Dff48ca4a9f0d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Day029&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/davidedepretto/GitHub/daily-coding-solutions" Presentation="&amp;lt;Day029&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String>
+	
 	
 	
 	
